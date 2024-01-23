@@ -4,7 +4,7 @@
 
 <p id="description">A project of 100 projects to learn Python and stay committed to coding for at least an hour for 100 days. I am collaborating with Ronnie on this project to help keep us both accountable and make it a joint learning experience. We are following the course by <a href="https://www.linkedin.com/in/angela-yu1/">Angela Wu</a> - 100 Days of Code - The Complete Python Pro Bootcamp</p>
 
-<h2>🛠️ Progress:</h2>
+<h2>⏳ Progress:</h2>
 
 <h3>1. Day 1</h3>
 

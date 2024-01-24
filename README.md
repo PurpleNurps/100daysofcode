@@ -11,3 +11,8 @@
 ```
 We learnt about the print and input functions: print("Hello, " + input("World?") + "!") 
 ```
+<h3>1. Day 2</h3>
+
+```
+We learnt about data types and convrting them to other data types.
+```

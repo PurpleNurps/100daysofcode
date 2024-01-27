@@ -20,4 +20,4 @@ people = input("How many people to split the bill?\n")
 people = float(people)
 
 #Each person should pay: 
-print(f"Each person should pay £{bill * tip / people:.2f}")
+print(f"Each person should pay £{round(bill * tip / people, 2):.2f}")

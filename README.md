@@ -16,3 +16,8 @@ We learnt about the print and input functions: print("Hello, " + input("World?")
 ```
 We learnt about data types and converting them to other data types. We were also introduced to f strings. Our project was to create a tip calculator.
 ```
+<h3>1. Day 3</h3>
+
+```
+We learnt about conditionals if else elif.
+```
